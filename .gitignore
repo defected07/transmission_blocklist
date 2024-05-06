@@ -1,0 +1,60 @@
+# Git
+.gitconfig
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+[Tt]humbs.db
+
+# Backups
+*.bak
+
+# Logs
+*.log
+log/
+logs/
+
+# Temporary
+*~
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Vim
+.netrwhist
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]*.un~
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
